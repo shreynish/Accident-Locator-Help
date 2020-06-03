@@ -4,4 +4,4 @@
 - We used Google Maps API to find the nearest hospital’s locations.
 
 ## Programming Language
-- Python
+- Python.
